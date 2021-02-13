@@ -1,4 +1,4 @@
-# my-rust-by-example
+# rust
 
 やる夫はRustを学ぶようです。
 
